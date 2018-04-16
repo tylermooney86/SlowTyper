@@ -1,0 +1,22 @@
+      .................                
+    .CCCCCCCCCCCCCCCCCCC.              
+  .CCCCCCCCCCCCCCCCCCCCCC:             
+ .UCCCCCCCCCCCCCCCCCCCCCCCC. .         
+ .UCCCC:.............:CCCCU.           
+ .UCCCU.             :UCCCU.           
+ .UCCCU.  .:::::::.  .:::::   ::::::::.
+ .UCCCU.  CCCCCCCUC          .UCCCCCCU:
+ .UCCCU.  CCCCCCCC:          .CCCCCCCU:
+ .UCCCU.  CCCCCCCCC   .....  .CCCCCCCC.
+ .UCCCU.     CCCCCC  :UCCCU. .CCCCCC   
+ .CCCCU.     CCCCCC  :CCCCC. .CCCCC: . 
+ .UCCCCCCCCCCCCCCCCCCCCCCCU. .CCCCCC   
+  :CCCCCCCCCCCCCCCCCCCCCCC:  .CCCCCC   
+   .:CCCCCCCCCCCCCCCCCCC:    .CCCCCC   
+     .:::::::CCCCCC::::.     .CCCCCC   
+             CCCCC:           CCCCCC   
+             UCCCCC...........UCCCCC   
+          .  CCCCCCCCCCCCCCCCCCCCCU: . 
+              :CCCCCCCCCCCCCCCCCCC.    
+               .CCCCCCCCCCCCCCCC:      
+                 ..............        
