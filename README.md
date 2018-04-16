@@ -8,7 +8,7 @@ Usage:
 -------
    - Python3 
    - Clone Repository
-   - from terminal: 'python3 slowtyper.py -f <file location> -s <typing speed>'
+   - from terminal: python3 slowtyper.py -f \<file location\> -s \<typing speed\>
       - typing speed defaults to 100
       - example -f: TextFiles/obama.txt
 
